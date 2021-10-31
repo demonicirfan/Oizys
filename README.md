@@ -1,4 +1,4 @@
-# MOizys
+## Oizys
 
 In Greek mythology, Oizys👸 is the goddess of misery, anxiety, grief, and depression. Our bot **Oizys** is a psychiatric wellness chatbot designed using dialogflow and nodejs.
 
